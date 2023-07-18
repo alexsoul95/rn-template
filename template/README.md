@@ -2,6 +2,7 @@ This is react-native template with pre installed libraries, which are required i
 
 # Project structure
 
+```bash
 src/
 ├── app/
 │   ├── assets/
@@ -38,3 +39,4 @@ src/
 │   ├── App.tsx
 │   └── ...
 └── ...
+```
