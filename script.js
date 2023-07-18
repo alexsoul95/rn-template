@@ -1,3 +1,3 @@
 #!/usr/bin/env node
 
-console.log("Congratulations! Template initialized");
+console.info("TheCodingMachine React-Native Boilerplate initialized with success !");
