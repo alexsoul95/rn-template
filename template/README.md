@@ -10,15 +10,6 @@ src/
 │   │   ├── images/
 │   │   └── ...
 │   ├── components/
-│   │   ├── Common/
-│   │   │   ├── Button/
-│   │   │   ├── Input/
-│   │   │   └── ...
-│   │   ├── Screens/
-│   │   │   ├── Home/
-│   │   │   ├── Profile/
-│   │   │   └── ...
-│   │   └── ...
 │   ├── navigators/
 │   │   ├── AppNavigator/
 │   │   ├── AuthNavigator/
