@@ -1,6 +1,16 @@
-This is react-native template with pre installed libraries, which are required in any react-native project
+# React native boilerplate
 
-# Project structure
+This is simple scalable [React Native](https://facebook.github.io/react-native/) boilerplate that can be used to kickstart a mobile application.
+
+## Usage
+
+To use this template simply run :
+
+```
+npx react-native@latest init MyApp --template @alexsoul95/rn-template
+```
+
+## Project structure
 
 ```bash
 src/
@@ -10,6 +20,7 @@ src/
 │   │   ├── images/
 │   │   └── ...
 │   ├── components/
+│   ├── localization/
 │   ├── navigators/
 │   │   ├── AppNavigator/
 │   │   ├── AuthNavigator/
