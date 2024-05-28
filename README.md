@@ -7,7 +7,7 @@ This is simple scalable [React Native](https://facebook.github.io/react-native/)
 To use this template simply run :
 
 ```
-npx react-native@latest init MyApp --template @alexsoul95/rn-template
+npx react-native@latest init MyApp --template https://github.com/alexsoul95/rn-template
 ```
 
 ## Project structure
